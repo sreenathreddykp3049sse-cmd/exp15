@@ -1,1 +1,2 @@
-"# LAB EX15 - Git Branches and Merge Conflicts" 
+This experiment demonstrates Git collaboration using GitHub.
+
